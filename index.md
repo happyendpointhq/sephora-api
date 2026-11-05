@@ -18,7 +18,7 @@ Built by **Happy Endpoint** for developers, startups, data analysts, and e-comme
 https://rapidapi.com/happyendpoint/api/real-time-sephora-api/
 
 🌐 Website: https://happyendpoint.com/  
-📩 Email: happyendpointhq@gmail.com  
+📩 Email: hello@happyendpoint.com  
 
 ---
 
@@ -197,7 +197,7 @@ We offer a **Sephora US bulk dataset** including:
 - Product ingestion pipelines
 - Catalog building
 
-📩 Contact: happyendpointhq@gmail.com  
+📩 Contact: hello@happyendpoint.com  
 🌐 https://happyendpoint.com/
 
 Custom scraping services also available.
@@ -265,7 +265,7 @@ See pricing on RapidAPI page.
 We build high-quality APIs for developers who need reliable, production-ready data pipelines.
 
 🌐 https://happyendpoint.com/  
-📩 happyendpointhq@gmail.com  
+📩 hello@happyendpoint.com  
 
 ---
 

@@ -205,7 +205,7 @@ availability, including per store.
 
 Yes. Happy Endpoint sells a Sephora US products dataset of 8,000+ products as a
 one-off file. See [happyendpoint.com/datasets](https://happyendpoint.com/datasets)
-or email happyendpointhq@gmail.com.
+or email hello@happyendpoint.com.
 
 ### Do you cover other retailers?
 
@@ -249,7 +249,7 @@ RapidAPI with a free tier.
 - Catalogue: [happyendpoint.com/library](https://happyendpoint.com/library)
 - Datasets: [happyendpoint.com/datasets](https://happyendpoint.com/datasets)
 - Documentation: [docs.happyendpoint.com](https://docs.happyendpoint.com)
-- Contact: happyendpointhq@gmail.com
+- Contact: hello@happyendpoint.com
 
 ## Licence
 
