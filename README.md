@@ -12,6 +12,8 @@ Built and maintained by [Happy Endpoint](https://happyendpoint.com).
 - Subscribe on RapidAPI: https://rapidapi.com/happyendpoint/api/real-time-sephora-api
 - Product page: https://happyendpoint.com/library/sephora-api
 - Hosted docs: https://happyendpointhq.github.io/sephora-api/
+- Postman documentation: https://documenter.getpostman.com/view/56555678/2sBYHXReCb
+- Postman collection (fork and run): https://www.postman.com/happyendpoints-team/sephora-api
 
 ---
 
