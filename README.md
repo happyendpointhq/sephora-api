@@ -216,6 +216,7 @@ Yes. IKEA, Tesco, Kohl's, and H&M, among others. See
 
 ## Related repos
 
+- [noon-api](https://github.com/happyendpointhq/noon-api) - Noon product prices, Buy Box sellers and offers in the Gulf
 - [ikea-api](https://github.com/happyendpointhq/ikea-api) - IKEA product, category, and store data
 - [priceline-api](https://github.com/happyendpointhq/priceline-api) - hotel, flight, and car rental data
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - runnable Python patterns that transfer to this API
